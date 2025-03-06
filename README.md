@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello from Mountains 👋
 
-<!--
-**yasinhp/yasinhp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Yasin Hasanpoor
+Here are some about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently a PhD student of Mechanical Engineering, working on Resilient Machine Learning and Autonomous Systems.
+- 🔭 I got my MSc in Mechatronics by working on Signal Processing and Deep Learning.
+- 📫 How to reach me: email: yhasanpo@stevens.edu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://example.com/dark-mode-image.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://example.com/light-mode-image.jpg">
+ <img alt="Yasin Hasanpoor" src="https://example.com/default-image.jpg">
+</picture>
